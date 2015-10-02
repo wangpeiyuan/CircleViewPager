@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircleViewPager</string>
+    <string name="add_item">Add item</string>
+    <string name="current_page">The index of the current page is: %s</string>
+    <string name="remove_item">remove item</string>
+    <string name="set_item">set item</string>
+</resources>
