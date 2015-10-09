@@ -4,7 +4,7 @@ import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 
-import com.wpy.cycleviewpager.Adapter.BaseCycleFragmentStatePagerAdapter;
+import com.wpy.circleviewpager.Adapter.BaseCycleFragmentStatePagerAdapter;
 import com.wpy.cycleviewpagerdemo.fragment.ViewPagerItemFragment;
 import com.wpy.cycleviewpagerdemo.mode.Images;
 

@@ -1,4 +1,4 @@
-package com.wpy.cycleviewpager.Indicator;
+package com.wpy.circleviewpager.Indicator;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -13,9 +13,9 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import com.wpy.cycleviewpager.Adapter.BaseCycleAdapterInterface;
-import com.wpy.cycleviewpager.Listener.BaseCyclePageChangeListener;
-import com.wpy.cycleviewpager.R;
+import com.wpy.circleviewpager.Adapter.BaseCycleAdapterInterface;
+import com.wpy.circleviewpager.Listener.BaseCyclePageChangeListener;
+import com.wpy.circleviewpager.R;
 
 import java.util.ArrayList;
 

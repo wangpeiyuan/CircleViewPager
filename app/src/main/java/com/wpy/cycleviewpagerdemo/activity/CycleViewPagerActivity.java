@@ -7,8 +7,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import com.wpy.cycleviewpager.Indicator.PagerIndicator;
-import com.wpy.cycleviewpager.Listener.BaseCyclePageChangeListener;
+import com.wpy.circleviewpager.Indicator.PagerIndicator;
+import com.wpy.circleviewpager.Listener.BaseCyclePageChangeListener;
 import com.wpy.cycleviewpagerdemo.R;
 import com.wpy.cycleviewpagerdemo.adapter.CycleViewStatePagerAdapter;
 import com.wpy.cycleviewpagerdemo.mode.Images;

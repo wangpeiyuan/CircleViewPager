@@ -1,4 +1,4 @@
-package com.wpy.cycleviewpager.Adapter;
+package com.wpy.circleviewpager.Adapter;
 
 
 import java.util.List;

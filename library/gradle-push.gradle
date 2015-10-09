@@ -1,10 +1,10 @@
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'Cycleviewpager'
+    bintrayName = 'CircleViewPager'
 
-    publishedGroupId = 'com.wpy.cycleviewpager'
-    libraryName = 'Cycleviewpager'
-    artifact = 'cycleviewpager'
+    publishedGroupId = 'com.wpy.circleviewpager'
+    libraryName = 'CircleViewPager'
+    artifact = 'circleviewpager'
 
     libraryDescription = 'A Android library for cycle viewpager'
 

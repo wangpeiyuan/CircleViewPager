@@ -1,4 +1,4 @@
-package com.wpy.cycleviewpager.Listener;
+package com.wpy.circleviewpager.Listener;
 
 import android.database.DataSetObserver;
 import android.os.Handler;
@@ -9,7 +9,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.wpy.cycleviewpager.Adapter.BaseCycleAdapterInterface;
+import com.wpy.circleviewpager.Adapter.BaseCycleAdapterInterface;
 
 import java.lang.ref.WeakReference;
 
