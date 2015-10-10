@@ -4,7 +4,7 @@ ext {
 
     publishedGroupId = 'com.wpy.circleviewpager'
     libraryName = 'CircleViewPager'
-    artifact = 'circleviewpager'
+    artifact = 'library'
 
     libraryDescription = 'A Android library for cycle viewpager'
 
@@ -106,13 +106,13 @@ bintray {
         licenses = allLicenses
         publish = true
         publicDownloadNumbers = true
-        version {
-            desc = libraryDescription
-            /*gpg {
-                sign = true //Determines whether to GPG sign the files. The default is false
-                passphrase = properties.getProperty("bintray.gpg.password")
-                //Optional. The passphrase for GPG signing'
-            }*/
-        }
+        /* version {
+             desc = libraryDescription
+             gpg {
+                 sign = true //Determines whether to GPG sign the files. The default is false
+                 passphrase = properties.getProperty("bintray.gpg.password")
+                 //Optional. The passphrase for GPG signing'
+             }
+         }*/
     }
 }
