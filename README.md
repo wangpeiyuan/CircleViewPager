@@ -13,9 +13,28 @@
 
 ## Usage
 ### Step 1
-* Gradle
+* JitPack  
+  1.在项目外层的build.gradle中添加JitPack仓库
+
+  ```
+  repositories {
+        // ...
+        maven { url "https://jitpack.io" }
+    }
+  ```
+
+  2.在用到的项目中添加依赖
+
+  ```
+  dependencies {
+	        compile 'com.github.cock-tail:CircleViewPager:1.0'
+	}
+  ```
+
+* Jcenter  
+已经通过jcenter的审核了，但是不知道为什么不行，建议用上面
 ```
-coming soon
+compile 'com.wpy.circleviewpager:library:1.0.0@aar'
 ```
 
 ### Step 2
